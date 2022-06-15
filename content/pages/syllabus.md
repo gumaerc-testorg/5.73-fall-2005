@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains an overview  of recommended textbooks,
+  alternative textbooks for the course, and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
