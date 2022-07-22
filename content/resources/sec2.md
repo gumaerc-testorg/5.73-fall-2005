@@ -6,6 +6,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/a679a67435691f82a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sec2.pdf
 uid: a679a674-3569-1f82-acce-443933710952
 ---
 This resource contains information on hilbert space,and operators and eigenvalues.
-

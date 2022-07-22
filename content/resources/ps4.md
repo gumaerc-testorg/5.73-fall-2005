@@ -5,6 +5,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/d89deec8e31b9656f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps4.pdf
 uid: d89deec8-e31b-9656-f59e-0f3c9a9c02a8
 ---
 This resource contains questions on hamiltonian operator.
-

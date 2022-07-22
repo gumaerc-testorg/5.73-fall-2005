@@ -6,6 +6,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/1af41ab1fad2ad8ff
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: final2004.pdf
 uid: 1af41ab1-fad2-ad8f-f6c4-4e177dc34a66
 ---
 This resource is a practice final exam and it contains 5 questions on hamiltonian operators.
-

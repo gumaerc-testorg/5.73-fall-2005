@@ -7,6 +7,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/bf19f723f60f6baeb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sec12.pdf
 uid: bf19f723-f60f-6bae-ba12-abcb6b97f6f5
 ---
 This resource contains information on the adiabatic approximation, the coupled channel, hamiltonian, Non-adiabatic effects, diabatic states, and electron transfer.
-

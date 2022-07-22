@@ -7,6 +7,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/2e043915a04607aee
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: sec5.pdf
 uid: 2e043915-a046-07ae-eb90-68dce4ca5d52
 ---
 This resource contains information on energy eigenstates are stationary states, the propagator governs time evolution, matrix representations of the propagator, and inversion of the ammonia molecule.
-

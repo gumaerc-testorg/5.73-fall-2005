@@ -6,6 +6,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/05001627bb9231085
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sec3.pdf
 uid: 05001627-bb92-3108-5b6a-4e0b477b0330
 ---
 This resource contains information on operators and states in real space, and the harmonic oscillator.
-

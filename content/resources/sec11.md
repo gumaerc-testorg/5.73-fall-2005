@@ -6,6 +6,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/1423b09cc39c2c109
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sec11.pdf
 uid: 1423b09c-c39c-2c10-9c1e-a9c332fffb46
 ---
 This resource contains information on the product basis, symmetry under exchange, and two electron atoms.
-

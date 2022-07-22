@@ -5,6 +5,7 @@ file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/8f9063e6d76cf2f7f
 file_type: application/octet-stream
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
