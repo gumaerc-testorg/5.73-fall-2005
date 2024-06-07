@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a practice final exam and it contains 5 questions on
   hamiltonian operators.
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/1af41ab1fad2ad8ff6c44e177dc34a66_final2004.pdf
+file_size: 48014
 file_type: application/pdf
 learning_resource_types:
 - Exams

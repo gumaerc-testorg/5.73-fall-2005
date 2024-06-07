@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on hilbert space,and operators and
   eigenvalues.
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/a679a67435691f82acce443933710952_sec2.pdf
+file_size: 68771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

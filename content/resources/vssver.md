@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/8f9063e6d76cf2f7f8c41f7d3c28a563_vssver.scc
+file_size: 64
 file_type: application/octet-stream
 learning_resource_types:
 - Exams
