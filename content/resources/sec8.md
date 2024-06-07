@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on coupled and uncoupled bases, recursion
   relations, and the triangle rule.
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/1315877bf7c55e8753629d19bb89100b_sec8.pdf
+file_size: 132661
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
