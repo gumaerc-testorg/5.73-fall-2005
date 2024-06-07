@@ -4,6 +4,7 @@ description: This resource contains information on energy eigenstates are statio
   states, the propagator governs time evolution, matrix representations of the propagator,
   and inversion of the ammonia molecule.
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/2e043915a04607aeeb9068dce4ca5d52_sec5.pdf
+file_size: 225850
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

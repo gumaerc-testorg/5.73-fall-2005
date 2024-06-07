@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information on polarization of light.
 file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/edea646a294d2e4f496c9e10d921d7ee_sec1.pdf
+file_size: 419093
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
