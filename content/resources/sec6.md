@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on rotations, commutation relations,
   and eigenstates.
-file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/71ffa3ed102d7719ae063aa38bbf4af7_sec6.pdf
+file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/71ffa3ed102d7719ae063aa38bbf4af7_sec6.pdf
 file_size: 112058
 file_type: application/pdf
 learning_resource_types:
