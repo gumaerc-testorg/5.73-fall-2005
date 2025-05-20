@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on delta function potential.
-file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/962b2a1b6ef775b5e8c58e1c683cb49e_ps3.pdf
+file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/962b2a1b6ef775b5e8c58e1c683cb49e_ps3.pdf
 file_size: 20576
 file_type: application/pdf
 learning_resource_types:
