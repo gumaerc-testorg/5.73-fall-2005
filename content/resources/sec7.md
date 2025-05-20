@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on spherical polar coordinates, orbital
   angular momentum operators, spherical harmonics, and the radial equation.
-file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/1fc874665b1746d99a0a07d4f6228d65_sec7.pdf
+file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/1fc874665b1746d99a0a07d4f6228d65_sec7.pdf
 file_size: 71698
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on operators and states in real space,
   and the harmonic oscillator.
-file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/05001627bb9231085b6a4e0b477b0330_sec3.pdf
+file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/05001627bb9231085b6a4e0b477b0330_sec3.pdf
 file_size: 141774
 file_type: application/pdf
 learning_resource_types:
