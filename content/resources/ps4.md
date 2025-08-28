@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains questions on hamiltonian operator.
-file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/d89deec8e31b9656f59e0f3c9a9c02a8_ps4.pdf
+file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/d89deec8e31b9656f59e0f3c9a9c02a8_ps4.pdf
 file_size: 66744
 file_type: application/pdf
 learning_resource_types:

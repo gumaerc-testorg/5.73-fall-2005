@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a midterm exam and it contains 3 questions on wave functions.
-file: /courses/5-73-introductory-quantum-mechanics-i-fall-2005/65bac596100277ba2dcade3666c8a071_midterm.pdf
+file: /ol-ocw-studio-app/courses/5-73-introductory-quantum-mechanics-i-fall-2005/65bac596100277ba2dcade3666c8a071_midterm.pdf
 file_size: 59995
 file_type: application/pdf
 learning_resource_types:
